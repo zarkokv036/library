@@ -1,0 +1,11 @@
+C:\c#\Biblioteka\bin\Debug\Biblioteka.exe.config
+C:\c#\Biblioteka\bin\Debug\Biblioteka.exe
+C:\c#\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\c#\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+C:\c#\Biblioteka\obj\Debug\Biblioteka.Form1.resources
+C:\c#\Biblioteka\obj\Debug\Biblioteka.Properties.Resources.resources
+C:\c#\Biblioteka\obj\Debug\Biblioteka.csproj.GenerateResource.cache
+C:\c#\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\c#\Biblioteka\obj\Debug\Biblioteka.exe
+C:\c#\Biblioteka\obj\Debug\Biblioteka.pdb
+C:\c#\Biblioteka\obj\Debug\Biblioteka.dijalozi.Dijalogpotraga.resources
